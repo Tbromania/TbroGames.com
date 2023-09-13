@@ -1,0 +1,15 @@
+#content{padding-left: 40px;}
+body{background-color: white;}
+div.header{background-color: yellow; width: 1350px; height: 280px; text-align: center; padding-top: 50px;}
+div.form{margin-left: 25px;}
+#end{width:auto; font-size: 20px;}
+span.text{margin-bottom: 600px; margin-right: 200px; float: right;}
+h2.div1{font-size: 40px; text-align: left;}
+img.recent{float: left; width: 500px; height: 300px;}
+a.menu{text-decoration: none; font-size: 30px;}
+#title{color: blue;}
+em{font-size: small;}
+footer{background-color: black; height: 120px; width: 1350px; color: white; text-align: center;padding-top: 80px; margin-top: 350px; font-size: 40px;}
+textarea{margin-top: 20px;}
+h1.Submit{color: red; text-decoration: underline; margin-top: 350px; padding-top: 40px; font-style: italic;}
+ul{list-style-type: square;}
