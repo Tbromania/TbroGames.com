@@ -1,0 +1,94 @@
+h2{color: red; text-align: center}
+body{font-family: Ubuntu; background-color: white}
+.navbar{background-color: black; display: block; height: 50px; padding: 5px}
+.navbar a{color: white; text-align: center; padding: 10px; padding-bottom: 50px; text-decoration: none; font-family: Ubuntu}
+#home{margin : 15px; font-family: Ubuntu;}
+img{margin: 5px; width: 335px; height: 220px; border-radius: 10px}
+#page1{text-align: center;
+ font-family: Ubuntu;}
+ul{list-style-type: square;}
+.searchbar{
+   display: block;
+    margin-top: 20px;
+    height: 30px;
+    border: solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+a{ color: black; text-decoration: none; text-align: center; font-family: Ubuntu;}
+#download{
+  margin-left: 90px;
+  border-radius: 6px;
+  background-color: green;
+  font-size: 20px;
+}
+
+#button{
+  color: white;
+  }
+
+#gameDetails{
+  text-align: center;
+  font-family: Ubuntu;
+  }
+#search{
+  height: 24px;
+  width: 335px;
+  font-family: Ubuntu;
+  }
+
+#reply{
+  width: 300px;
+  }
+
+#end{
+  margin-top: 100%;
+  text-align: center;
+  }
+
+#end span {
+  color: black;
+  font-size: 20px;
+  }
+
+#submit{
+  width: 100px;
+  height: 30px;
+  background-color: blue;
+  float: right;
+  margin-right: 10px;
+  border: solid black thin;
+  font-family: Ubuntu;
+  }
+
+#submit span{
+  color: white;
+  }
+
+.input
+{
+  width: 300px;
+  border-radius: 5px;
+  height: 24px;
+  }
+
+#logo
+{
+  width: 40px; 
+  height: 40px; 
+  border: solid black thin;
+  border-radius: 50%; 
+  overflow: hidden;
+}
+
+h5{text-align: center;
+  font-family: Ubuntu;
+}
+
+h6{text-align: center;
+  font-family: Ubuntu;
+}
+
+
+
